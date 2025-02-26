@@ -48,7 +48,3 @@ This project is a **Stock Market Prediction System** built using **Python and Ma
 
 ## ✍️ Author
 Jigyasa
-
-## 📜 License
-This project is open-source and free to use.
-
