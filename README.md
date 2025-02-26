@@ -35,11 +35,11 @@ This project is a **Stock Market Prediction System** built using **Python and Ma
 4. **Stock Price Prediction & Evaluation** 📈
 
 ## 📸 Sample Outputs
-### 📊 Stock Price Trends
-![Stock Trend](images/stock_trend.png)
 
-### 📈 Prediction Graph
-![Prediction](images/prediction.png)
+
+### 📈 Actual vs Prediction Graph
+![Prediction](lr_30days.png)
+![Prediction](dt_30days.png)
 
 ## 🔮 Future Enhancements
 - 🏦 Add more advanced models (LSTM, ARIMA, etc.)
